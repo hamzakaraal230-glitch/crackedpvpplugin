@@ -1,0 +1,6 @@
+name: CrackedPractice
+version: '1.0.0'
+main: club.crackedpvp.practice.CrackedPractice
+api-version: '1.21'
+author: CrackedPvP
+description: CrackedPvP Practice Plugin
